@@ -1,0 +1,8 @@
+C:\Users\eduardo.bcoppi\source\repos\Aula07Atividades\Aula07Atividades\obj\Debug\Aula07Atividades.csproj.AssemblyReference.cache
+C:\Users\eduardo.bcoppi\source\repos\Aula07Atividades\Aula07Atividades\obj\Debug\Aula07Atividades.csproj.SuggestedBindingRedirects.cache
+C:\Users\eduardo.bcoppi\source\repos\Aula07Atividades\Aula07Atividades\obj\Debug\Aula07Atividades.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.bcoppi\source\repos\Aula07Atividades\Aula07Atividades\bin\Debug\Aula07Atividades.exe.config
+C:\Users\eduardo.bcoppi\source\repos\Aula07Atividades\Aula07Atividades\bin\Debug\Aula07Atividades.exe
+C:\Users\eduardo.bcoppi\source\repos\Aula07Atividades\Aula07Atividades\bin\Debug\Aula07Atividades.pdb
+C:\Users\eduardo.bcoppi\source\repos\Aula07Atividades\Aula07Atividades\obj\Debug\Aula07Atividades.exe
+C:\Users\eduardo.bcoppi\source\repos\Aula07Atividades\Aula07Atividades\obj\Debug\Aula07Atividades.pdb
